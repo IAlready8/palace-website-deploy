@@ -1,0 +1,16 @@
+# Root ignores
+.DS_Store
+node_modules/
+build/
+dist/
+*.log
+
+# Do not commit environment files
+.env
+.env.*
+
+# Ignore editor/OS junk
+.idea/
+.vscode/
+Thumbs.db
+
